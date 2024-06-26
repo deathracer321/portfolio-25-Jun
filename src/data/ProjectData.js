@@ -41,7 +41,6 @@ export const ProjectList = [
     github_url: "https://github.com/salesp07/JobDetectNode",
     demo_url: "https://harishweather99.web.app/",
   },
-  ,
   {
     img: "/jobDetect.png",
     title: "Food receipe",
@@ -64,7 +63,7 @@ export const ProjectList = [
     description: "Simple funny love Calculator with Flames Calculator",
     tech_stack: ["React", "Bootstrap", "NodeJs"],
     github_url: "That demonstrates how simple youtube can be of with API's",
-    demo_url: "https://harishvideos99.web.app/",
+    demo_url: "https://harish-lovecalculator.web.app/",
   },
   {
     img: "/jobDetect.png",
@@ -104,7 +103,7 @@ export const ProjectList = [
     description: "A funny website to ask your GF to accept your Valentine req",
     tech_stack: ["NextJs", "Typescript"],
     github_url: "That demonstrates how simple youtube can be of with API's",
-    demo_url: "https://harishs99.w3spaces.com/",
+    demo_url: "https://7jzchp-3001.csb.app/",
   },
 ];
 
