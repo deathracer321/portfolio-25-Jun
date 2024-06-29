@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
+    img: "/projectImages/portfolio1.png",
     title: "My Portfolio",
     description: "Best at building beautiful looking Portfolio SPA's",
     tech_stack: ["React", "Bootstrap", "Firebase", "nextjs"],
@@ -9,7 +9,7 @@ export const ProjectList = [
     demo_url: "https://harish-93.web.app",
   },
   {
-    img: "/renr-responsive.png",
+    img: "/projectImages/roadAccident.png",
     title: "Road Accident Detector",
     description:
       "A Realtime IOT project that detects Road accident and alerts medical people with location",
@@ -18,7 +18,7 @@ export const ProjectList = [
     demo_url: "https://roadaccidents-harish.web.app/Login",
   },
   {
-    img: "/mymind-responsive.png",
+    img: "/projectImages/spotify.png",
     title: "Spotify Clone",
     description: "Utilising Spotify Api's to get trailers of a song",
     tech_stack: ["React", "Bootstrap", "SpotifyAPI", "Firebase", "Google Auth"],
@@ -26,7 +26,7 @@ export const ProjectList = [
     demo_url: "https://spotify-clone-95623.web.app",
   },
   {
-    img: "/pokedex-responsive.png",
+    img: "/projectImages/AmazonClone.png",
     title: "Amazon Clone",
     description: "Get glimpse of a e-commerce app clone",
     tech_stack: ["ReactJs", "NodeJs", "MongoDB Atlas"],
@@ -34,7 +34,7 @@ export const ProjectList = [
     demo_url: "https://challenge-4dbee.web.app/",
   },
   {
-    img: "/jobDetect.png",
+    img: "/projectImages/weather.png",
     title: "Weather",
     description: "An go-to app to know the cities current temperature",
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
@@ -42,7 +42,7 @@ export const ProjectList = [
     demo_url: "https://harishweather99.web.app/",
   },
   {
-    img: "/jobDetect.png",
+    img: "/projectImages/foodReceipe.png",
     title: "Food receipe",
     description: "App that holds your memory for cooking",
     tech_stack: ["React", "NodeJs", "Web Api"],
@@ -50,7 +50,7 @@ export const ProjectList = [
     demo_url: "https://harishfoodrecipe.web.app/",
   },
   {
-    img: "/jobDetect.png",
+    img: "/projectImages/youtubeClone.png",
     title: "Youtube clone",
     description: "An go-to app to know the cities current temperature",
     tech_stack: ["React", "Bootstrap", "NodeJs"],
@@ -58,7 +58,7 @@ export const ProjectList = [
     demo_url: "https://harishvideos99.web.app/",
   },
   {
-    img: "/jobDetect.png",
+    img: "/projectImages/loveCalculator.png",
     title: "Love Calculator",
     description: "Simple funny love Calculator with Flames Calculator",
     tech_stack: ["React", "Bootstrap", "NodeJs"],
@@ -66,7 +66,7 @@ export const ProjectList = [
     demo_url: "https://harish-lovecalculator.web.app/",
   },
   {
-    img: "/jobDetect.png",
+    img: "/projectImages/trombone.png",
     title: "Trombone shop",
     description: "An SPA that shows how flawless cart Experience can be of",
     tech_stack: ["React", "firebase", "NodeJs"],
@@ -74,7 +74,7 @@ export const ProjectList = [
     demo_url: "https://harish-trombone.web.app/",
   },
   {
-    img: "/jobDetect.png",
+    img: "/projectImages/todos.png",
     title: "Todo app",
     description: "Ofcourse who doesnt like to schedule up things??",
     tech_stack: ["React", "firebase", "NodeJs", "local Storage"],
@@ -82,7 +82,7 @@ export const ProjectList = [
     demo_url: "https://harishtodo2.web.app/",
   },
   {
-    img: "/jobDetect.png",
+    img: "/projectImages/industry.png",
     title: "Industrial Website",
     description: "I also build 'what we do' websites... take a look",
     tech_stack: ["React", "firebase hosting"],
@@ -90,7 +90,7 @@ export const ProjectList = [
     demo_url: "https://apvinnovationindustriesindia.web.app/",
   },
   {
-    img: "/jobDetect.png",
+    img: "/projectImages/portfolio2.png",
     title: "Portfolio websites",
     description: "And how not my own Personal Portfolio sites.. a lot of em'",
     tech_stack: ["React", "Bootstrap"],
@@ -98,7 +98,7 @@ export const ProjectList = [
     demo_url: "https://harishs99.w3spaces.com/",
   },
   {
-    img: "/jobDetect.png",
+    img: "/projectImages/valentine.png",
     title: "Be my Valentine",
     description: "A funny website to ask your GF to accept your Valentine req",
     tech_stack: ["NextJs", "Typescript"],
