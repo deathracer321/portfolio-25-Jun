@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-25-Jun/static/css/main.673633cb.css",
+    "main.js": "/portfolio-25-Jun/static/js/main.1d150b8a.js",
+    "index.html": "/portfolio-25-Jun/index.html",
+    "static/media/blob-haikei.svg": "/portfolio-25-Jun/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.673633cb.css.map": "/portfolio-25-Jun/static/css/main.673633cb.css.map",
+    "main.1d150b8a.js.map": "/portfolio-25-Jun/static/js/main.1d150b8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.673633cb.css",
+    "static/js/main.1d150b8a.js"
+  ]
+}
