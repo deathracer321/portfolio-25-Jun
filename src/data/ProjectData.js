@@ -5,7 +5,7 @@ export const ProjectList = [
     title: "My Portfolio",
     description: "Best at building beautiful looking Portfolio SPA's",
     tech_stack: ["React", "Bootstrap", "Firebase", "nextjs"],
-    github_url: "",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://harish-93.web.app",
   },
   {
@@ -14,7 +14,7 @@ export const ProjectList = [
     description:
       "A Realtime IOT project that detects Road accident and alerts medical people with location",
     tech_stack: ["IOT", "Firebase", "Arduino", "expressJS", "React"],
-    github_url: "",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://roadaccidents-harish.web.app/Login",
   },
   {
@@ -22,7 +22,7 @@ export const ProjectList = [
     title: "Spotify Clone",
     description: "Utilising Spotify Api's to get trailers of a song",
     tech_stack: ["React", "Bootstrap", "SpotifyAPI", "Firebase", "Google Auth"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://spotify-clone-95623.web.app",
   },
   {
@@ -30,7 +30,7 @@ export const ProjectList = [
     title: "Amazon Clone",
     description: "Get glimpse of a e-commerce app clone",
     tech_stack: ["ReactJs", "NodeJs", "MongoDB Atlas"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://challenge-4dbee.web.app/",
   },
   {
@@ -38,7 +38,7 @@ export const ProjectList = [
     title: "Weather",
     description: "An go-to app to know the cities current temperature",
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://harishweather99.web.app/",
   },
   {
@@ -46,7 +46,7 @@ export const ProjectList = [
     title: "Food receipe",
     description: "App that holds your memory for cooking",
     tech_stack: ["React", "NodeJs", "Web Api"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://harishfoodrecipe.web.app/",
   },
   {
@@ -54,7 +54,7 @@ export const ProjectList = [
     title: "Youtube clone",
     description: "An go-to app to know the cities current temperature",
     tech_stack: ["React", "Bootstrap", "NodeJs"],
-    github_url: "That demonstrates how simple youtube can be of with API's",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://harishvideos99.web.app/",
   },
   {
@@ -62,7 +62,7 @@ export const ProjectList = [
     title: "Love Calculator",
     description: "Simple funny love Calculator with Flames Calculator",
     tech_stack: ["React", "Bootstrap", "NodeJs"],
-    github_url: "That demonstrates how simple youtube can be of with API's",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://harish-lovecalculator.web.app/",
   },
   {
@@ -70,7 +70,7 @@ export const ProjectList = [
     title: "Trombone shop",
     description: "An SPA that shows how flawless cart Experience can be of",
     tech_stack: ["React", "firebase", "NodeJs"],
-    github_url: "That demonstrates how simple youtube can be of with API's",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://harish-trombone.web.app/",
   },
   {
@@ -78,7 +78,7 @@ export const ProjectList = [
     title: "Todo app",
     description: "Ofcourse who doesnt like to schedule up things??",
     tech_stack: ["React", "firebase", "NodeJs", "local Storage"],
-    github_url: "That demonstrates how simple youtube can be of with API's",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://harishtodo2.web.app/",
   },
   {
@@ -86,7 +86,7 @@ export const ProjectList = [
     title: "Industrial Website",
     description: "I also build 'what we do' websites... take a look",
     tech_stack: ["React", "firebase hosting"],
-    github_url: "That demonstrates how simple youtube can be of with API's",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://apvinnovationindustriesindia.web.app/",
   },
   {
@@ -94,7 +94,7 @@ export const ProjectList = [
     title: "Portfolio websites",
     description: "And how not my own Personal Portfolio sites.. a lot of em'",
     tech_stack: ["React", "Bootstrap"],
-    github_url: "That demonstrates how simple youtube can be of with API's",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://harishs99.w3spaces.com/",
   },
   {
@@ -102,7 +102,7 @@ export const ProjectList = [
     title: "Be my Valentine",
     description: "A funny website to ask your GF to accept your Valentine req",
     tech_stack: ["NextJs", "Typescript"],
-    github_url: "That demonstrates how simple youtube can be of with API's",
+    github_url: "https://github.com/deathracer321/",
     demo_url: "https://7jzchp-3001.csb.app/",
   },
 ];
