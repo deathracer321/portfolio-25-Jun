@@ -1,6 +1,5 @@
 {
     "name": "portfolio-react",
-    "homepage": "/portfolio-25-Jun",
     "version": "0.1.0",
     "private": true,
     "dependencies": {

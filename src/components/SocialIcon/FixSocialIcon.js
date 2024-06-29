@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 import styled from "@emotion/styled";
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -51,6 +51,7 @@ const SocialContainer = styled.div`
     }
   }
 `;
+
 function FixSocialIcon() {
   return (
     <SocialContainer>
@@ -63,8 +64,17 @@ function FixSocialIcon() {
               rel="noopener noreferrer"
             >
               <FaLinkedin />
-            </a>
-          </li>
+            </a>{" "}
+          </li>{" "}
+          <li className="item">
+            <a
+              href="https://www.instagram.com/harish_s_99/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaInstagram />
+            </a>{" "}
+          </li>{" "}
           <li className="item">
             <a
               href="https://github.com/deathracer321/"
@@ -72,10 +82,10 @@ function FixSocialIcon() {
               rel="noopener noreferrer"
             >
               <FaGithub />
-            </a>
-          </li>
-        </ul>
-      </ScrollAnimation>
+            </a>{" "}
+          </li>{" "}
+        </ul>{" "}
+      </ScrollAnimation>{" "}
     </SocialContainer>
   );
 }

@@ -184,7 +184,7 @@ export const stackList = [
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg",
-    name: "Chrome Dev Tools",
+    name: "Dev Tools",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg",
@@ -214,4 +214,29 @@ export const stackList = [
     img: "https://img.icons8.com/color/344/redux.png",
     name: "Redux",
   },
+  {
+    img: "https://img.icons8.com/?size=100&id=13444&format=png&color=000000",
+    name: "Arduino",
+  },
+  {
+    img: "https://img.icons8.com/?size=100&id=iFX197RNadJ7&format=png&color=000000",
+    name: "IoT",
+  },
+  {
+    img: "https://img.icons8.com/?size=100&id=Y1g7y0lQDclf&format=png&color=000000",
+    name: "R&D",
+  },
+  {
+    img: "https://img.icons8.com/?size=100&id=108792&format=png&color=000000",
+    name: "Windows",
+  },
+  {
+    img: "https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000",
+    name: "Linux",
+  },
+  {
+    img: "https://img.icons8.com/?size=100&id=v7BkjmFjgswL&format=png&color=000000",
+    name: "debugging",
+  }
+  
 ];
