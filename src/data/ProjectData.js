@@ -37,7 +37,7 @@ export const ProjectList = [
     img: "/projectImages/weather.png",
     title: "Weather",
     description: "An go-to app to know the cities current temperature",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+    tech_stack: ["Python", "NodeJs", "MongoDB"],
     github_url: "https://github.com/deathracer321/",
     demo_url: "https://harishweather99.web.app/",
   },
@@ -139,16 +139,24 @@ export const stackList = [
     name: "Git",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "React Native",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
+    name: "GitHub",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
+    name: "VS Code",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
+    name: "Firebase",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
     name: "NodeJS",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
-    name: "Firebase",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg",
+    name: "Express JS",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
@@ -157,22 +165,6 @@ export const stackList = [
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
     name: "Python",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
-    name: "Flask",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
-    name: "C",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-    name: "Java",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
-    name: "MySQL",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
@@ -187,11 +179,39 @@ export const stackList = [
     name: "Figma",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
-    name: "TailwindCSS",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
+    name: "Docker",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
-    name: "VS Code",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg",
+    name: "Chrome Dev Tools",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg",
+    name: "Jira",
+  },
+  {
+    img: "https://img.icons8.com/color/344/google-analytics.png",
+    name: "Google Analytics",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg",
+    name: "ESLint",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg",
+    name: "NPM",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg",
+    name: "Postman",
+  },
+  {
+    img: "https://img.icons8.com/color/344/chatgpt.png",
+    name: "ChatGPT 4",
+  },
+  {
+    img: "https://img.icons8.com/color/344/redux.png",
+    name: "Redux",
   },
 ];
